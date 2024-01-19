@@ -2,4 +2,4 @@
 -----
 Congratulations! your grades went up and you passed
 
-[Go back](../reportcard)
+[Go back](../reportcard.md)
