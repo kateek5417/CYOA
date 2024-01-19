@@ -1,5 +1,6 @@
-You say sorry for lying to her.   
+You say sorry for lying to her.
+
 She forgives you and tells you to never try that again.
 
 ----
-Start over
+[Start over](../reportcard)
