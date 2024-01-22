@@ -1,5 +1,6 @@
-# Pass
------
-Congratulations! your grades went up and you passed
+# FLying colors
 
+Congratulations! Your grades went up and you passed all of your classes.
+
+---
 [Go back](../reportcard.md)
