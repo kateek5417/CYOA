@@ -1,4 +1,4 @@
-# Scribble
+# Grade A student
 You scribble new grades over your report card in pen.
 
 Your mother notices the different ink and calls you out.

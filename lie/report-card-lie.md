@@ -1,4 +1,4 @@
-# Liar
+# Liar liar pants on fire
 How are you going to lie?
 
 ----
