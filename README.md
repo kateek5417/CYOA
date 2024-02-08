@@ -3,6 +3,8 @@
 ### Introduction
 This Choose Your Own Adventure explores the situation of when your mom asks to see your report card and the different actions you could take to either hide the truth or to be honest.
 
+The purpose of this project is to build our skill of collaborating on the IDE as well as linking markdown files.
+
 ### What would you do?
 Will you choose to be an honest child and give her the report card or follow the path of deviancy and lie to your mom?
 
